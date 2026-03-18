@@ -1,5 +1,6 @@
 app_name = "ascent_insurance_app"
 app_title = "Ascent Insurance App"
+app_version = "0.0.1"
 app_publisher = "Ascent"
 app_description = "Erp for Insurance Intermediator"
 app_email = "ascent.tech@gmail.com"

@@ -5,7 +5,7 @@ app_publisher = "Ascent"
 app_description = "Erp for Insurance Intermediator"
 app_email = "ascent.tech@gmail.com"
 app_license = "mit"
-frappe_version = ">=15.0.0,<16.0.0"
+frappe_version = ">=15.0.0 <16.0.0"
 
 # Apps are good
 # ------------------

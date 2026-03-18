@@ -1,5 +1,5 @@
-app_name = "insurance_management"
-app_title = "Insurance Management"
+app_name = "ascent_insurance_app"
+app_title = "Ascent Insurance App"
 app_publisher = "Ascent"
 app_description = "Erp for Insurance Intermediator"
 app_email = "ascent.tech@gmail.com"
